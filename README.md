@@ -1,4 +1,4 @@
-# Project Name: 
+# Project Name:
 ### Python Bill or Reciept Generator
 <br>
 
